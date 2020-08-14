@@ -1,16 +1,17 @@
-FROM node:12
+# FROM node:12
 
-RUN mkdir workspace
-WORKDIR /workspace
+# RUN mkdir workspace
+# WORKDIR /workspace
 
-COPY package.json .
+# COPY package.json .
 
-RUN npm install
+# RUN npm install
 
-COPY . .
+# COPY . .
 
-EXPOSE 5000
+# EXPOSE 5000
 
+FROM wookbyung/cnn-explainer
 #ENTRYPOINT npm 
 CMD ["npm", "run", "start"]
 
