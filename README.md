@@ -2,7 +2,7 @@
   
 ## Easy to experience cnn-explainer using Ainize
 1. Click below button  
-[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.web.app/redirect?git_repo=https://github.com/Wook-2/cnn-explainer)
+[![Run on Ainize](https://ainize.ai/static/images/run_on_ainize_button.svg)](https://ainize.ai/wook-2/cnn-explainer?branch=master)
 
 2. Now you can experience cnn-explainer!
 ---
